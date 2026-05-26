@@ -1,0 +1,16 @@
+{
+  "name": "backend_2",
+  "version": "1.0.0",
+  "description": "a learning part",
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Dharmanshu mehra",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,3 @@
+# backend series
+
+- [MODAL LINK](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUk0eGpveWpQRGZHOUcxUWhuVlR2RDEyMi1zUXxBQ3Jtc0tsLUtDMktRc1p3bjJUbkI3YmotVzVwLU1HX2VITXVIMmp2WTROaC1XM3BwUmZJWm1xb3VEc0UzaUYwNmR6bVhsRVR0aVBqZVVNTTAxbEI5ZGxfSC1YQm1HdlJ2TUFXLVNhOWxaZ0c5Vm9fQ0ozbFY3WQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
